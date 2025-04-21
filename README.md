@@ -53,4 +53,4 @@ npm install
 Inicia la aplicación React:
 
 npm start
-Esto abrirá la aplicación en tu navegador en http://localhost:3000.
+Esto abrirá la aplicación en tu navegador en http://localhost:5173.
