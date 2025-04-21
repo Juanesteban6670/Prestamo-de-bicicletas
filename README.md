@@ -46,11 +46,14 @@ Esto iniciará el backend en el puerto 8080.
 ### 3. Configura el Frontend (React)
 Dirígete a la carpeta del frontend:
 
-cd frontend
+cd prestamo-bicicletas-front
+
 Instala las dependencias:
 
 npm install
+
 Inicia la aplicación React:
 
-npm start
+npm run de
+
 Esto abrirá la aplicación en tu navegador en http://localhost:5173.
