@@ -27,7 +27,7 @@ Este proyecto está construido con las siguientes tecnologías:
 
 Primero, clona el repositorio en tu máquina local:
 
-git clone https://github.com/TU_USUARIO/bicicletaprestamo.git
+git clone https://github.com/juanesteban6670/bicicletaprestamo.git
 
 ### 2. Configura el Backend (Spring Boot)
 
