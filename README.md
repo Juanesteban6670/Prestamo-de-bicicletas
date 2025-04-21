@@ -54,6 +54,6 @@ npm install
 
 Inicia la aplicación React:
 
-npm run de
+npm run dev
 
 Esto abrirá la aplicación en tu navegador en http://localhost:5173.
